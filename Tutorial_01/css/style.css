@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+}
+
+h2 {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.table {
+  width: 270px;
+  border: solid 1px;
+  margin-top: 10px;
+  margin-left: 40%;
+}
+
+.td-even,
+.td-odd {
+  height: 30px;
+  width: 30px;
+}
+
+.td-even {
+  background-color: #FFFFFF;
+}
+
+.td-odd {
+  background-color: #000000;
+}
