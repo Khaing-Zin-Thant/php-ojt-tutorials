@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+h2 {
+  padding-bottom: 6px;
+  border-bottom: solid 1px #ccc;
+}
+
+.inner {
+  width: 60%;
+  margin-top: 2%;
+  margin-left: 20%;
+  border: solid 1px #ccc;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+
+.text {
+  width: 80%;
+  margin-bottom: 7px;
+  border-bottom: solid 1px #ccc;
+}
+
+.doc {
+  width: 80%;
+  margin-bottom: 10px;
+  border-bottom: solid 1px #ccc;
+}
+
+.excel {
+  width: 80%;
+}
+
+.table {
+  width: 60%;
+  border: solid 1px rgb(100, 100, 100);
+}
+
+tr,
+td {
+  padding: 10px 20px;
+  border: solid 1px rgb(100, 100, 100);
+}
