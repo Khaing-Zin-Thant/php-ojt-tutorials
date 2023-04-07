@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
+form {
+  margin: 5% 40%;
+  border: solid 1px #ccc;
+  border-radius: 5px;
+}
+
+h2 {
+  text-align: center;
+  border-bottom: solid 1px #ccc;
+  padding: 10px;
+  background-color: #f5f4f4;
+  margin-bottom: 10px;
+}
+
+input {
+  margin-top: 5px;
+  width: 251px;
+  padding: 5px;
+}
+
+label, input {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.choosefile-box {
+  border: solid 1px #757575;
+  border-radius: 3px;
+}
+
+.upload {
+  background-color: rgb(105, 120, 253);
+  border-radius: 5px;
+  border-color: transparent;
+  color: white;
+}
+
+.img-display {
+  display: block;
+    border: solid 1px #ccc;
+    border-radius: 5px;
+    width: 26%;
+    margin: 50px;
+    padding: 10px;
+}
+
+table {
+  border: solid 1px #ccc;
+}
+
+.delete {
+  background: red;
+  border-color: transparent;
+  border-radius: 5px;
+  color: white;
+}
